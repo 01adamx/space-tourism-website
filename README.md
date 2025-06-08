@@ -23,13 +23,13 @@ Users should be able to:
 - View each page and be able to toggle between the tabs to see new information
 
 ### Screenshot
-![](./space-tourism-website.png)
+![](./space-tourism-screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Solution URL on Github](https://github.com/01adamx/space-tourism-website)
-- Live Site URL: [Live site URL](https://01adamx.github.io/space-tourism-website/)
+- Solution URL: [https://github.com/01adamx/space-tourism-website](https://github.com/01adamx/space-tourism-website)
+- Live Site URL: [Lhttps://01adamx.github.io/space-tourism-website/](https://01adamx.github.io/space-tourism-website/)
 
 
 ### Built with
@@ -45,6 +45,6 @@ Users should be able to:
 
 ## Author
 
-- Github - [01adamx](hhttps://github.com/01adamx)
+- Github - [01adamx](https://github.com/01adamx)
 - Twitter - [@techieadamx](https://x.com/TechieAdamx)
 - Frontend Mentor - [@01adamx](https://www.frontendmentor.io/profile/01adamx)

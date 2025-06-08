@@ -1,6 +1,4 @@
-/* ------------------- */
 /* Custom properties   */
-/* ------------------- */
 
 :root {
     /* colors */
@@ -44,13 +42,6 @@
         --fs-400: 1.125rem;
     }
 }
-
-
-/* ------------------- */
-/* Reset               */
-/* ------------------- */
-
-/* https://piccalil.li/blog/a-modern-css-reset/ */
 
 /* Box sizing */
 *,
@@ -124,10 +115,7 @@ select {
   }
 }
 
-
-/* ------------------- */
-/* Utility classes     */
-/* ------------------- */
+/* Utility classes    */
 
 /* general */
 
@@ -238,9 +226,7 @@ select {
 }
 
 
-/* ------------------- */
 /* Compontents         */
-/* ------------------- */
 
 .large-button {
     font-size: 2rem;
@@ -512,11 +498,7 @@ body {
     }
 } 
 
-
-/* ----------------------------- */
 /* Layout                        */
-/* ----------------------------- */
-
 
 .grid-container {
     text-align: center;
@@ -731,6 +713,5 @@ body {
         grid-column: span 2;
         max-width: 100%;
     }
-
 
 }
